@@ -35,9 +35,9 @@
 I'm a computer science & math major at the University of Massachusetts Amherst. I enjoy building practical tools and exploring AI and data science projects.
 
 - 🔭 I’m currently working on: Braille-translator and poster-generator projects
-- 🌱 I’m currently learning: TypeScript, Go, and modern backend/cloud patterns
+- 🌱 I’m currently learning: SQL, AI, and modern backend/cloud patterns
 - 👯 I’m open to collaborating on: small web apps, AI/data experiments, and developer tools
-- ⚡ Fun fact: I love roller skating and badminton
+- ⚡ Fun fact: I love roller skating, badminton, and working out!
 
 ---
 
@@ -76,10 +76,8 @@ Add more projects below — short description + language + link.
 
 ## Connect
 
-- Website: (add your website)
-- Twitter: (add your Twitter)
-- LinkedIn: (add your LinkedIn)
-- Email: (add your email)
+- LinkedIn: (linkedin.com/in/qirongwangpeter)
+- Email: (qirongwang@umass.edu)
 
 ---
 
