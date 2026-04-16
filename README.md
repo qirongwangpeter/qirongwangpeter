@@ -43,7 +43,7 @@ I'm a computer science & math major at the University of Massachusetts Amherst. 
 
 ## Quick facts
 
-- 📍 Location: Tynsborough, MA
+- 📍 Location: Tynsborough, MA && Shenzhen, Guangdong
 - 🎓 Education: University of Massachusetts Amherst
 - 📅 Hacking since: 2024
 
