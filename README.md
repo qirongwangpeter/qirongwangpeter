@@ -6,18 +6,18 @@
 👋 Heyo, I'm Qirong Wang. I'm a computer science and math major student at the university of Massachusetts Amherst.
 
 
-- 📍 Location: Tynsborough, Ma
+- 📍 Location: Tynsborough, Ma && Shenzhen GuangDong
 - 🎓 Education: university of Massachusetts Amherst
 - 📅 Hacking Since: 2024
 
 ## Featured Projects
 - 🎲 Braille-translator — translating letters to Braille (C++,python) 
-- 🛠️ Poster-generator — [generate a poster based on the elements that you want it to be included] (python) — github.com/qirongwangpeter/YOUR_REPO_2
+- 🛠️ Poster-generator — [generate a poster based on the elements that you want it to be included] (python)
 
 
 ## Tech & Interests
 - 🧰 Languages: Chinese, English
-- 🔭 Focus: AI,data science
+- 🔭 Focus: AI,data science, SDE
 - ❤️ Interests: roller skating, badminton, swimming, and working out! 
 -->
 
@@ -79,14 +79,5 @@ Add more projects below — short description + language + link.
 - LinkedIn: (linkedin.com/in/qirongwangpeter)
 - Email: (qirongwang@umass.edu)
 
----
-
-## Personalize this README
-
-1. Replace placeholder links (project repos, website, social links) with real URLs.
-2. Add screenshots for projects by creating an `assets/` folder and referencing images like `![screenshot](assets/example.png)`.
-3. If you want a specific layout (portfolio grid, academic CV, or minimal), tell me and I can adapt this file and add a small template for projects.
 
 ---
-
-*Updated: polished profile README with your details. Commit & push will make this live on your profile.*
