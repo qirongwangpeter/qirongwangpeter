@@ -51,9 +51,8 @@ I'm a computer science & math major at the University of Massachusetts Amherst. 
 ## Featured projects
 
 - 🎲 Braille-translator — translating letters to Braille (C++, Python). A small utility that converts text to Braille patterns for learning and print preparation.
-- 🛠️ Poster-generator — generate a poster based on the elements you want included (Python). Repo: https://github.com/qirongwangpeter/poster-generator (replace if different)
+- 🛠️ Poster-generator — generate a poster based on the elements you want included (Python).
 
-Add more projects below — short description + language + link.
 
 ---
 
